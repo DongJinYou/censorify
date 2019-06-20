@@ -1,0 +1,16 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "Censors words out of text",
+  "main": "censortext",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "author": "Dong,Jinyou",
+  "license": "ISC",
+  "engines": {
+    "node": "*"
+  }
+}
